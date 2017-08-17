@@ -23,7 +23,7 @@ twitter_username: jekyllrb
 github_username:  bzuo
 
 # Build settings
-markdown: kramdown
+markdown: markdown
 theme: minima
 plugins:
   - jekyll-feed
